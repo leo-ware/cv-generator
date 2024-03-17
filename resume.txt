@@ -1,0 +1,51 @@
+Leo Ware
+leoware@uni.minerva.edu ∙ Github ∙ Linkedin
+
+Experience
+
+West Virginia University	Morgantown, WV
+Research Assistant	Dec 2023 - Present
+Developed a custom model validation pipeline, proving that a published result overestimated model performance by 2x
+Developed a multi-threaded implementation of proposed ML technique, showing 5x speedup in training time relative to a prototype
+Improved on the design of the technique, leading to 30% improved fit
+Improved training times on another key model by 30x
+
+Carnegie Mellon University	Pittsburgh, PA
+Research Intern – Human Computer Interaction Institute	May 2022 - August 2022
+Developed a machine learning based tool for human in the loop extraction of web content
+Built an intuitive web-based interface, making the tool available to non-technical users
+Collaborated with the data science team on the design of an LLM-based recommendation pipeline
+Prepared a demo for a strategic partnership pitch to Firefox, the only intern selected to do so
+
+SoftBank	San Francisco, CA
+Software Engineer – Masason AI Incubator	June 2021 - September 2021
+Developed a pitch and received $20,000 in seed-stage grant funding from the SoftBank Masason AI fund
+Headed a three-person front-end development team, developing a project prototype in three months
+Faced with performance issues, developed a custom data structure that cut render times by 90%
+Iterated on product-market fit by conducting 5+ user-interviews, leading to a major pivot
+Presented to the CEO of Deepcore and VP of SoftBank, resulting in continued funding for the project
+  
+
+Education
+
+Minerva University	San Francisco, CA
+BS - Major in Computational Sciences, Concentration in Data Science and Statistics	September 2019 - December 2023
+Honed software engineering and computational modeling skills with classes in Data Structure & Algorithms, Artificial Intelligence, Causal Inference & Machine Learning
+3.7 GPA
+ 
+
+Projects
+
+Undergraduate Capstone: Polynomial-Time General Causal Identification
+Found and designed a fix for a bug in an open-source library by Microsoft Research with over 3k github stars, showing that ~50% of statistical significance tests were invalid
+Invited to reimplement a key causal inference algorithm, developed a version that was more general, polynomial time and 60% faster
+Published my work as an open-source library
+Advised by Dr. Alexis Diamond
+ 
+
+Accomplishments and Certifications
+
+National Merit Finalist
+Eagle Scout
+
+Skills: Data Science, Machine Learning, Software Engineering, Python, TypeScript, Rust

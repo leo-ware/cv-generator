@@ -1,0 +1,45 @@
+Cloud Software Engineer
+Cloudsine
+Software Engineer / Developer (Full Stack)
+Full-Time
+1 - 2 years
+Bachelor’s
+SGD 4,500 - SGD 6,500 monthly
+APPLY
+SAVE
+Background
+Cloudsine (https://www.cloudsine.tech) is an established cybersecurity product startup headquartered in Singapore since 2012. Our flagship software, WebOrion® (https://www.weborion.io), is used by large enterprise customers such as Banks, Government, Telcos, and Large Forbes Global 2000 companies spread across Asia including Australia, Indonesia, India, Philippines, Hong Kong and Singapore. We are seeking someone to join our dynamic technical team to maintain and enhance our WebOrion® software suite with new product capabilities and offerings.
+
+Why join us? 
+1. Build a Product Used by Companies in >8 countries in Asia, Europe, Australia and US. 
+2. Regional Exposure. You get to work and interact with customers from different countries, languages and culture. 
+3. Share Options. Besides the regular salary, we provide share options to staff who makes significant contributions so that they are co-stakeholders in the company
+Job scope
+What you will be working on:
+Design and develop new features for WebOrion® software
+Research and come up with key software features and modules
+Design low fidelity wireframe and UI/UX
+Work with designer team to create high fidelity wireframe
+Manage and maintain databases, software and cloud infrastructure
+Work on an agile product development process
+Provide technical support to customers
+What we are looking for:
+Degree or Masters’ in Computer Science/ Engineering, Information Technology or equivalent
+Preferably familiar with web technologies, AWS, SQL, Git
+Knowledge in one or more programming languages: Javascript, Python, PHP
+Experience with Linux command-line
+Able to write and document technical concepts
+Based in Singapore
+Level of relevant working experience
+1 - 2 years
+Required Skills
+Python
+Amazon Web Services (AWS)
+Javascript
+Hypertext Markup Language (HTML)
+Linux
+About the company
+Cloudsine
+Information and Communications
+Cloudsine is a cloud technology company specialising in cloud adoption, security and innovation. Cloud will be one of the most significant technology shifts your organization will encounter in the next few years, hence Cloudsine aims to be the trusted partner to help customers build new capabilities and business opportunities for the digital future. Since 2012, cloud, security and innovation have been the DNA of their team. They have built cloud systems to support numerous large enterprise and government customers across APAC countries, including Singapore, Australia, Philippines, India, Indonesia, Hong Kong, etc. Their cloud experience includes web applications, content delivery, WAF, encryption, logs, analytics, containers, serverless architecture, deep learning, storage and archival, etc. In addition, they have their own Intellectual Property and tools (eg. WebOrion security suite) to complement existing public cloud tools to help customers strengthen their cloud security.
+http://www.cloudsine.tech
